@@ -69,4 +69,6 @@
         "wiki":"http://crud.readthedocs.org/en/latest/",
         "irc":"irc://irc.freenode.org/friendsofcake"
     }
+    ,
+    "minimum-stability": "beta"
 }
